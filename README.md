@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A passionate frontend developer from TURKEY</h3>
-<h4 align="center">I am studying Information System Engineering and making double major on Software Engineering at Atılım University </h4>
+<h4 align="center">I am studying Information Systems Engineering and doing a double major in Software Engineering at Atılım University. </h4>
 
 ✅**C language**
 - 🌱 I’m currently learning **C++ and Python language**
