@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A passionate frontend developer from TURKEY</h3>
+<h4 align="center">I am studying Information System Engineering and making double major on Software Engineering at Atılım University </h4>
 
 - 🌱 I’m currently learning **C language**
 
