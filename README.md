@@ -3,7 +3,7 @@
 <h4 align="center">I am studying Information Systems Engineering and doing a double major in Software Engineering at Atılım University. </h4>
 
 ✅**C language**
-- 🌱 I’m currently learning **C++ and Python language**
+- 🌱 I’m currently learning **C++ and Python languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
