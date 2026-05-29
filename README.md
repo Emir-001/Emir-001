@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
+
 # 💫 About Me:
 A passionate frontend developer from TURKEY<br>I am studying Information Systems Engineering and doing a double major in Software Engineering at Atılım University.<br>✅C language<br><br>✅C++ language<br>🌱 I’m currently learning JS and Python languages
 
